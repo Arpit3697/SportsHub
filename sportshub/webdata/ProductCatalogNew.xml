@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+	<product productId="1">
+		<model>LG - 65" Class - LED - UK6090PUA Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>529.99</price>
+		<image>imagesNew/1.jpg</image>
+		<manufacturer>LG</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+		<quantity>25</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="2">
+		<model>LG - 75" Class - LED - UK6190 Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>899.99</price>
+		<image>imagesNew/2.jpg</image>
+		<manufacturer>LG</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+		<quantity>25</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="3">
+		<model>LG - 32" Class - LED - 720p - Smart - HDTV with HDR</model>
+		<price>139.99</price>
+		<image>imagesNew/3.jpg</image>
+		<manufacturer>LG</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+		<quantity>25</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>	
+	
+	<product productId="4">
+		<model>Sony - 43" Class - LED - X800G Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>599.99</price>
+		<image>imagesNew/4.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>20</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="5">
+		<model>Sony - 55" Class - LED - X900F Series - 2160p - Smart - 4K Ultra HD TV with HDR</model>
+		<price>1149.99</price>
+		<image>imagesNew/5.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>20</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="6">
+		<model>Sony - 65" Class - LED - X750F Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>899.99</price>
+		<image>imagesNew/6.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>20</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="7">
+		<model>Samsung - 32" Class - LED - N5300 Series - 1080p - Smart - HDTV</model>
+		<price>249.99</price>
+		<image>imagesNew/7.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>20.0</discount>
+		<quantity>15</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+	
+	<product productId="8">
+		<model>Samsung - 55" Class - LED - 7 Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>499.99</price>
+		<image>imagesNew/8.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>20.0</discount>
+		<quantity>15</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+	
+	<product productId="9">
+		<model>Samsung - 65" Class - LED - 8 Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>999.99</price>
+		<image>imagesNew/9.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>20.0</discount>
+		<quantity>15</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+	
+	<product productId="10">
+		<model>Samsung - 65" Class - LED - Q70 Series - 2160p - Smart - 4K UHD TV with HDR</model>
+		<price>1399.99</price>
+		<image>imagesNew/10.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>20.0</discount>
+		<quantity>15</quantity>
+		<type>TV</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>106</accessoryid>
+		</accessories>
+	</product>
+	
+	<product productId="11">
+		<model>JBL - 2.1-Channel Soundbar System with 6-1/2" Wireless Subwoofer and Digital Amplifier - Black</model>
+		<price>299.99</price>
+		<image>imagesNew/11.jpg</image>
+		<manufacturer>JBL</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="12">
+		<model>JBL - 3.1-Channel Soundbar System with 10" Wireless Subwoofer and Digital Amplifier - Black</model>
+		<price>499.99</price>
+		<image>imagesNew/12.jpg</image>
+		<manufacturer>JBL</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="13">
+		<model>Bose® - Wireless Surround Speakers for Home Theater (Pair) - Black</model>
+		<price>299.99</price>
+		<image>imagesNew/13.jpg</image>
+		<manufacturer>Bose</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="14">
+		<model>Bose® - Wave® SoundTouch® Music System IV - Black</model>
+		<price>599.99</price>
+		<image>imagesNew/14.jpg</image>
+		<manufacturer>Bose</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="15">
+		<model>Bose® - Soundbar 500 with Voice Control and Bass Module 500 Subwoofer Home Theater Package</model>
+		<price>499.99</price>
+		<image>imagesNew/15.jpg</image>
+		<manufacturer>Bose</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="16">
+		<model>Sony - MHC-M20 High-Power Audio System - Black</model>
+		<price>229.99</price>
+		<image>imagesNew/16.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="17">
+		<model>Sony - 2.1-Channel 320W Soundbar System with Wireless Subwoofer - Black</model>
+		<price>199.99</price>
+		<image>imagesNew/17.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="18">
+		<model>Sony - 2.1-Channel Soundbar System with 4.72" Wireless Subwoofer and Digital Amplifier - Charcoal black</model>
+		<price>349.99</price>
+		<image>imagesNew/18.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SoundSystems</type>
+		<accessories>
+			<accessoryid>107</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>110</accessoryid>
+			<accessoryid>111</accessoryid>
+			<accessoryid>112</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="19">
+		<model>Apple - iPhone 11 128GB - Black</model>
+		<price>749.00</price>
+		<image>imagesNew/19.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="20">
+		<model>Apple - iPhone 11 Pro 256GB - Space Gray</model>
+		<price>1150.99</price>
+		<image>imagesNew/20.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="21">
+		<model>Apple - iPhone 11 Pro Max 256GB - Space Gray</model>
+		<price>1250.00</price>
+		<image>imagesNew/21.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="22">
+		<model>OnePlus 6T - Midnight Black - 8 GB RAM + 128 GB Storage</model>
+		<price>499.00</price>
+		<image>imagesNew/22.png</image>
+		<manufacturer>OnePlus</manufacturer>
+		<condition>New</condition>
+		<discount>0.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="23">
+		<model>OnePlus 6T - Midnight Black - 8 GB RAM + 256 GB Storage</model>
+		<price>549.00</price>
+		<image>imagesNew/23.png</image>
+		<manufacturer>OnePlus</manufacturer>
+		<condition>New</condition>
+		<discount>0.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="24">
+		<model>OnePlus 7 Pro -Nebula Blue - 12 GB RAM + 256 GB Storage </model>
+		<price>749.00</price>
+		<image>imagesNew/24.png</image>
+		<manufacturer>OnePlus</manufacturer>
+		<condition>New</condition>
+		<discount>0.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="25">
+		<model>OnePlus 7 Pro -Mirror Gray - 6 GB RAM + 128 GB Storage </model>
+		<price>669.00</price>
+		<image>imagesNew/25.png</image>
+		<manufacturer>OnePlus</manufacturer>
+		<condition>New</condition>
+		<discount>0.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>	
+
+	<product productId="26">
+		<model>Samsung - Galaxy Note10+ 256GB - Aura Glow</model>
+		<price>900.00</price>
+		<image>imagesNew/26.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="27">
+		<model>Samsung - Galaxy S10+ with 128GB Memory Cell Phone Prism - Black</model>
+		<price>800.00</price>
+		<image>imagesNew/27.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="28">
+		<model>Samsung - Galaxy S10 with 128GB Memory Cell Phone - Flamingo Pink</model>
+		<price>700</price>
+		<image>imagesNew/28.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="29">
+		<model>Apple - MacBook Air 13.3" Laptop with Touch ID - Intel Core i5 - 8GB Memory - 128GB Solid State Drive (Latest Model) - Space Gray</model>
+		<price>899.99</price>
+		<image>imagesNew/29.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="30">
+		<model>
+Apple - MacBook Pro - 13" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD - Silver</model>
+		<price>1299.99</price>
+		<image>imagesNew/30.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="31">
+		<model>
+Apple - MacBook Pro 15.4" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD - Space Gray</model>
+		<price>2099.99</price>
+		<image>imagesNew/31.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="32">
+		<model>Dell - Inspiron 15.6" 7000 2-in-1 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB - GeForce MX250 - 512GB SSD + Optane - Black</model>
+		<price>1199.99</price>
+		<image>imagesNew/32.jpg</image>
+		<manufacturer>Dell</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="33">
+		<model>Dell - 15.6" Gaming Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1660 Ti - 1TB Hard Drive + 256GB SSD - Deep Space Black
+</model>
+		<price>1149.99</price>
+		<image>imagesNew/33.jpg</image>
+		<manufacturer>Dell</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="34">
+		<model>Microsoft - Surface Book 2 - 13.5" Touch-Screen PixelSense™ - 2-in-1 Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Platinum</model>
+		<price>1299.00</price>
+		<image>imagesNew/34.jpg</image>
+		<manufacturer>Microsoft</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="35">
+		<model>Microsoft - Surface Laptop 2 13.5" Touch-Screen - Intel Core i5 - 8GB Memory - 256GB Solid State Drive (Latest Model) - Platinum</model>
+		<price>899.00</price>
+		<image>imagesNew/35.jpg</image>
+		<manufacturer>Microsoft</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>119</accessoryid>
+			<accessoryid>120</accessoryid>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="36">
+		<model>Amazon - Echo Dot (3rd Gen) - Smart Speaker with Alexa - Charcoal</model>
+		<price>49.99</price>
+		<image>imagesNew/36.jpg</image>
+		<manufacturer>Amazon</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>VoiceAssistant</type>
+		<accessories>
+			<accessoryid>124</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="37">
+		<model>Amazon - Echo (2nd Gen) - Smart Speaker with Alexa - Charcoal Fabric</model>
+		<price>99.99</price>
+		<image>imagesNew/37.jpg</image>
+		<manufacturer>Amazon</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>VoiceAssistant</type>
+		<accessories>
+			<accessoryid>124</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="38">
+		<model>Amazon - Echo Sub 100W Subwoofer - Charcoal</model>
+		<price>129.99</price>
+		<image>imagesNew/38.jpg</image>
+		<manufacturer>Amazon</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>VoiceAssistant</type>
+		<accessories>
+			<accessoryid>124</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="39">
+		<model>Google - Home Mini - Smart Speaker with Google Assistant - Chalk</model>
+		<price>49.00</price>
+		<image>imagesNew/39.jpg</image>
+		<manufacturer>Google</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>VoiceAssistant</type>
+		<accessories>
+			<accessoryid>123</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="40">
+		<model>Google - Home - Smart Speaker with Google Assistant - White/Slate</model>
+		<price>99.99</price>
+		<image>imagesNew/40.jpg</image>
+		<manufacturer>Google</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>VoiceAssistant</type>
+		<accessories>
+			<accessoryid>125</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="41">
+		<model>Fitbit - Charge 3 Activity Tracker + Heart Rate - Black/Graphite</model>
+		<price>149.95</price>
+		<image>imagesNew/41.jpg</image>
+		<manufacturer>Fitbit</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>FitnessWatches</type>
+		<accessories>
+			<accessoryid>125</accessoryid>
+		</accessories>
+	</product>
+	<product productId="42">
+		<model>Fitbit - Inspire HR Activity Tracker + Heart Rate - Black</model>
+		<price>99.95</price>
+		<image>imagesNew/42.jpg</image>
+		<manufacturer>Fitbit</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>FitnessWatches</type>
+		<accessories>
+			<accessoryid>125</accessoryid>
+		</accessories>
+	</product>
+	<product productId="43">
+		<model>Fitbit - Charge 2 Activity Tracker + Heart Rate (Large) - Black Silver</model>
+		<price>129.95</price>
+		<image>imagesNew/43.jpg</image>
+		<manufacturer>Fitbit</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>FitnessWatches</type>
+		<accessories>
+			<accessoryid>125</accessoryid>
+		</accessories>
+	</product>	
+	<product productId="44">
+		<model>Fossil - Gen 5 44mm Stainless Steel - Black with Brown Leather Band</model>
+		<price>295.00</price>
+		<image>imagesNew/44.jpg</image>
+		<manufacturer>Fossil</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>FitnessWatches</type>
+		<accessories>
+			<accessoryid>126</accessoryid>
+		</accessories>
+	</product>
+	<product productId="45">
+		<model>Fossil - Gen 5 44mm Stainless Steel - Smoke with Smoke Stainless Steel Band</model>
+		<price>295.00</price>
+		<image>imagesNew/45.jpg</image>
+		<manufacturer>Fossil</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>FitnessWatches</type>
+		<accessories>
+			<accessoryid>126</accessoryid>
+		</accessories>
+	</product>
+	<product productId="46">
+		<model>Apple - Apple Watch Series 5 (GPS) 44mm Space Gray Aluminum Case with Black Sport Band - Space Gray Aluminum</model>
+		<price>429.00</price>
+		<image>imagesNew/46.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SmartWatches</type>
+		<accessories>
+			<accessoryid>127</accessoryid>
+		</accessories>
+	</product>
+	<product productId="47">
+		<model>Apple - Apple Watch Series 3 (GPS) 38mm Silver Aluminum Case with White Sport Band - Silver Aluminum</model>
+		<price>199.00</price>
+		<image>imagesNew/47.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SmartWatches</type>
+		<accessories>
+			<accessoryid>127</accessoryid>
+		</accessories>
+	</product>
+	<product productId="48">
+		<model>Apple - Apple Watch Series 4 (GPS) 44mm Space Gray Aluminum Case with Black Sport Band - Space Gray Aluminum</model>
+		<price>379.00</price>
+		<image>imagesNew/48.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SmartWatches</type>
+		<accessories>
+			<accessoryid>127</accessoryid>
+		</accessories>
+	</product>
+	<product productId="49">
+		<model>Samsung - Gear S3 Frontier Smartwatch 46mm - Dark Gray</model>
+		<price>299.99</price>
+		<image>imagesNew/49.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SmartWatches</type>
+		<accessories>
+			<accessoryid>128</accessoryid>
+		</accessories>
+	</product>
+	<product productId="50">
+		<model>Samsung - Galaxy Watch Smartwatch 42mm Stainless Steel - Midnight Black</model>
+		<price>329.99</price>
+		<image>imagesNew/50.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>SmartWatches</type>
+		<accessories>
+			<accessoryid>128</accessoryid>
+		</accessories>
+	</product>
+	<product productId="51">
+		<model>Skullcandy - Crusher Wireless Over-the-Ear Headphones - Black/Coral</model>
+		<price>118.99</price>
+		<image>imagesNew/51.jpg</image>
+		<manufacturer>Skullcandy</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>129</accessoryid>
+			<accessoryid>130</accessoryid>
+		</accessories>
+	</product>
+	<product productId="52">
+		<model>Skullcandy - Venue Wireless Noise Canceling Over-the-Ear Headphones - Black</model>
+		<price>149.99</price>
+		<image>imagesNew/52.jpg</image>
+		<manufacturer>Skullcandy</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>129</accessoryid>
+			<accessoryid>130</accessoryid>
+		</accessories>
+	</product>
+	<product productId="53">
+		<model>Skullcandy - Venue Wireless Noise Canceling Over-the-Ear Headphones - Black</model>
+		<price>52.99</price>
+		<image>imagesNew/53.jpg</image>
+		<manufacturer>Skullcandy</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>129</accessoryid>
+			<accessoryid>130</accessoryid>
+		</accessories>
+	</product>
+	<product productId="54">
+		<model>Sennheiser - HD 4.50 BTNC Wireless Over-the-Ear Noise Canceling Headphones - Black</model>
+		<price>149.99</price>
+		<image>imagesNew/54.jpg</image>
+		<manufacturer>Sennheiser</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>129</accessoryid>
+			<accessoryid>130</accessoryid>
+		</accessories>
+	</product>
+	<product productId="55">
+		<model>Sennheiser - PXC 550 Wireless Over-the-Ear Noise Canceling Headphones - Black</model>
+		<price>242.99</price>
+		<image>imagesNew/55.jpg</image>
+		<manufacturer>Sennheiser</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>129</accessoryid>
+			<accessoryid>130</accessoryid>
+		</accessories>
+	</product>
+	<product productId="56">
+		<model>Tmobile - Basic</model>
+		<price>19.99</price>
+		<image>imagesNew/56.png</image>
+		<manufacturer>Basic</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Wirelessplan</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+		</accessories>
+	</product>
+	<product productId="57">
+		<model>Verizon- Basic</model>
+		<price>24.99</price>
+		<image>imagesNew/57.png</image>
+		<manufacturer>Basic</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Wirelessplan</type>
+		<accessories>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+	<product productId="58">
+		<model>Tmobile - Premium</model>
+		<price>29.99</price>
+		<image>imagesNew/56.png</image>
+		<manufacturer>Premium</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Wirelessplan</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+		</accessories>
+	</product>
+	<product productId="59">
+		<model>Verizon - Premium</model>
+		<price>34.99</price>
+		<image>imagesNew/57.png</image>
+		<manufacturer>Premium</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Wirelessplan</type>
+		<accessories>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+	<product productId="60">
+		<model>Tmobile - Ultimate</model>
+		<price>39.99</price>
+		<image>imagesNew/56.png</image>
+		<manufacturer>Ultimate</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Wirelessplan</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+		</accessories>
+	</product>
+	<product productId="61">
+		<model>Verizon - Ultimate</model>
+		<price>44.99</price>
+		<image>imagesNew/57.png</image>
+		<manufacturer>Ultimate</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>15</quantity>
+		<type>Wirelessplan</type>
+		<accessories>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+
+
+	<AccessoryCatalog>
+		<accessory accessoryId="101">
+			<amodel>Screen Cleaner Kit</amodel>
+			<aprice>19.95</aprice>
+			<amanufacturer>Screenmom</amanufacturer>
+			<aimage>imagesNew/101.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="102">
+			<amodel>Premium Series Advanced Tilt TV Wall Mount</amodel>
+			<aprice>149.99</aprice>
+			<amanufacturer>Sanus</amanufacturer>
+			<aimage>imagesNew/102.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="103">
+			<amodel>3-Device Universal Remote</amodel>
+			<aprice>19.99</aprice>
+			<amanufacturer>RCA</amanufacturer>
+			<aimage>imagesNew/103.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="104">
+			<amodel>4 Pack - LG Cinema 3D Glasses</amodel>
+			<aprice>35.99</aprice>
+			<amanufacturer>LG</amanufacturer>
+			<aimage>imagesNew/104.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="105">
+			<amodel>Outdoor TV Cover for LCD and LED</amodel>
+			<aprice>23.95</aprice>
+			<amanufacturer>Kolife</amanufacturer>
+			<aimage>imagesNew/105.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="106">
+			<amodel>PERLESMITH Universal TV Stand</amodel>
+			<aprice>28.99</aprice>
+			<amanufacturer>Perlesmith</amanufacturer>
+			<aimage>imagesNew/106.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="107">
+			<amodel>Soundbar Wall Bracket - Black</amodel>
+			<aprice>39.99</aprice>
+			<amanufacturer>Bose</amanufacturer>
+			<aimage>imagesNew/107.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="108">
+			<amodel>Solo 5 Soundbar Wall mount kit - Black</amodel>
+			<aprice>24.99</aprice>
+			<amanufacturer>Bose</amanufacturer>
+			<aimage>imagesNew/108.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="109">
+			<amodel>Insignia™ - 6' 3.5mm Mini-to-RCA Stereo Audio Cable - Black</amodel>
+			<aprice>11.99</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>imagesNew/109.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="110">
+			<amodel>Rocketfis - 24' In-Wall Subwoofer Cable - Gray</amodel>
+			<aprice>38.99</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>imagesNew/110.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="111">
+			<amodel>Rocketfish - Tilting Wall Mounts for Most Small Speakers (2-Pack) - Black</amodel>
+			<aprice>24.99</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>imagesNew/111.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="112">
+			<amodel>Rocketfish - Multi-Directional Speaker Wall Mount - Black</amodel>
+			<aprice>39.99</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>imagesNew/112.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="113">
+			<amodel>Speck - Presidio STAY CLEAR Case for Apple® iPhone® 11 - Clear</amodel>
+			<aprice>39.99</aprice>
+			<amanufacturer>Speck</amanufacturer>
+			<aimage>imagesNew/11.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="114">
+			<amodel>Anker - PowerCore 20,000 mAh Portable Charger for Most USB-Enabled Devices - Black</amodel>
+			<aprice>44.99</aprice>
+			<amanufacturer>Anker</amanufacturer>
+			<aimage>imagesNew/114.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="115">
+			<amodel>PopSockets - Car Holder for Mobile Phones - Black</amodel>
+			<aprice>14.99</aprice>
+			<amanufacturer>PopSockets</amanufacturer>
+			<aimage>imagesNew/115.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="116">
+			<amodel>PopSockets - PopGrip - Aluminum Batic Blue</amodel>
+			<aprice>9.99</aprice>
+			<amanufacturer>PopSockets</amanufacturer>
+			<aimage>imagesNew/116.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="118">
+			<amodel>kate spade new york - Universal Stability Ring - Gold/Cream</amodel>
+			<aprice>19.99</aprice>
+			<amanufacturer>Kate</amanufacturer>
+			<aimage>imagesNew/118.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="117">
+			<amodel>Insignia™ - Phone Ring Stand Finger Grip/Kickstand for Mobile Phones - Black</amodel>
+			<aprice>9.99</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>imagesNew/117.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="119">
+			<amodel>Case Logic - Huxton Sleeve for 13.3" Laptop - Blue/Midnight Navy</amodel>
+			<aprice>12.99</aprice>
+			<amanufacturer>Case Logic</amanufacturer>
+			<aimage>imagesNew/119.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="120">
+			<amodel>j5create - USB 3.0 Mini Docking Station - silver</amodel>
+			<aprice>79.99</aprice>
+			<amanufacturer>j5Create</amanufacturer>
+			<aimage>imagesNew/120.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="121">
+			<amodel>Solo - Urban Laptop Briefcase - Black/Orange</amodel>
+			<aprice>22.99</aprice>
+			<amanufacturer>Solo</amanufacturer>
+			<aimage>imagesNew/121.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="122">
+			<amodel>Targus - 65W AC Power Adapter for Select Asus, Lenovo and HP Laptops - Black</amodel>
+			<aprice>49.99</aprice>
+			<amanufacturer>Targus</amanufacturer>
+			<aimage>imagesNew/122.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="123">
+			<amodel>Google - Base for Google Home - Carbon</amodel>
+			<aprice>40.99</aprice>
+			<amanufacturer>Google</amanufacturer>
+			<aimage>imagesNew/123.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="124">
+			<amodel>Amazon - Smart Plug - White</amodel>
+			<aprice>24.99</aprice>
+			<amanufacturer>Amazon</amanufacturer>
+			<aimage>imagesNew/124.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="125">
+			<amodel>Fitbit Charge 2 Charger</amodel>
+			<aprice>6.99</aprice>
+			<amanufacturer>SoulenUSA</amanufacturer>
+			<aimage>imagesNew/125.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="126">
+			<amodel>Fossil 22 mm Leather Watch Strap - S221245</amodel>
+			<aprice>25.89</aprice>
+			<amanufacturer>Fossil</amanufacturer>
+			<aimage>imagesNew/126.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="127">
+			<amodel>Platinum - Magnetic Stainless Steel Mesh Band for Apple Watch™ 38mm and 40mm - Black</amodel>
+			<aprice>39.99</aprice>
+			<amanufacturer>Platinum</amanufacturer>
+			<aimage>imagesNew/127.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="128">
+			<amodel>Samsung - 9W Wireless Charger Pad - Black</amodel>
+			<aprice>39.99</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>imagesNew/57.png</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="129">
+			<amodel>Insignia™ - 20' Headphone Extension Cable and Adapter Kit - Black</amodel>
+			<aprice>6.49</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>imagesNew/129.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="130">
+			<amodel>Insignia™ - Dual 3.5mm Mini Headphone Jack Splitter - Black</amodel>
+			<aprice>4.49</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>imagesNew/57.png</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="131">
+			<amodel>International Calls</amodel>
+			<aprice>10.49</aprice>
+			<amanufacturer>Tmobile-International Calls</amanufacturer>
+			<aimage>imagesNew/56.png</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="132">
+			<amodel>International Calls</amodel>
+			<aprice>14.49</aprice>
+			<amanufacturer>Verizon-International Calls</amanufacturer>
+			<aimage>imagesNew/57.png</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+	</AccessoryCatalog>
+</ProductCatalog>

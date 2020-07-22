@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>sportshub</title>
+
+<link rel="stylesheet" href="styles/styles.css" type="text/css" />
+<link rel="stylesheet" href="styles/font-awesome.min.css" type="text/css" />
+<link rel="stylesheet" href="styles/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="styles/datatables.min.css"/>
+<link rel="stylesheet" href="styles/mystyle.css" type="text/css" />
+<script src="scripts/jquery.min.js"></script>
+<style>
+.search-box {
+	background-color: #f8f9f1 !important;
+	padding: 10px;
+}
+</style>
+</head>
+
+
+<body onload="init()">
+	<script
+		type="text/javascript"
+		src="scripts/autocomplete.js"></script>
+
+	<!-- Image and text -->
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+		<a class="navbar-brand mb-0 h3" href="/sportshub/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sportshub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse"
+				data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+				aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+					<a class="nav-item nav-link active" href="/sportshub/">Home </a>
+					<a class="nav-item nav-link active" href="/sportshub/ProductDisplayServlet?sportscategory=Baseball">Baseball</a>
+					<a class="nav-item nav-link active" href="/sportshub/ProductDisplayServlet?sportscategory=Basketball">Basketball</a>
+					<a class="nav-item nav-link active" href="/sportshub/ProductDisplayServlet?sportscategory=Football">Football</a>
+					<a class="nav-item nav-link active" href="/sportshub/ProductDisplayServlet?sportscategory=Hockey">Hockey</a>
+					<a class="nav-item nav-link active" href="/sportshub/ProductDisplayServlet?sportscategory=Soccer">Soccer</a>
+					<a class="nav-item nav-link active" href="/sportshub/ProductDisplayServlet?sportscategory=Volleyball">Volleyball</a>
+
+				</div>
+			</div>
+		</div>	
+		<!-- <a href="/sportshub/TracDisplayServlet" class="nav-item nav-link active">Cart</a> -->
+		<span class="nav-greeting-dark">Hi There! Welcome.</span>
+		<a class='btn btn-outline-dark my-2 my-sm-2 pull-right' href='/sportshub/LoginServlet'
+			role='button'>Sign in</a>
+
+	</nav>
+	<div class="search-box">
+		<div class="row">
+			<div class="col-md-3"></div>
+			<div class="col-md-6 no-padding">
+				<input
+					type="text"
+					id="searchId"
+					placeholder="Search product i.e. "
+					onkeyup="doCompletion()"
+					class="search-input">
+				<div id="auto-row">
+					<table
+						id="complete-table"
+						class="gridtable"
+						style="position: absolute; width: 100%"></table>
+				</div>
+			</div>
+		</div>
+
+	</div>
